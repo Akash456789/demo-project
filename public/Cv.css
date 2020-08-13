@@ -1,0 +1,201 @@
+.ccc1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("im.png");
+    height: 400px;
+    background-size: cover;
+    background-position: 0em;
+}
+
+.ccc2 {
+    text-align: center;
+    color: white;
+    padding-top: 6%;
+    font-size: 40px;
+    font-style: oblique;
+}
+
+.ccc3 {
+    text-align: center;
+    color: white;
+    font-style: oblique;
+}
+
+.ccc4 {
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 30px 100px;
+    width: 85%;
+}
+
+.ccc5 {
+    color: rgb(236, 184, 141);
+    text-decoration: none;
+    padding: 5px 60px;
+    border-bottom: 1px solid;
+}
+
+.ccc5:hover {
+    color: rgb(243, 33, 33);
+}
+
+.ccc6 {
+    text-decoration: none;
+    border: 1px solid;
+    padding: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    color: rgb(224, 155, 98);
+}
+
+.ccc6:hover {
+    color: white;
+    background-color: rgb(243, 33, 33);
+}
+
+.resume-btn {
+    text-decoration: none;
+    border-radius: 25px;
+    position: absolute;
+    bottom: 18rem;
+    left: 50%;
+    opacity: 0;
+    padding: 10px 20px 10px 20px;
+    transform: translateX(-50%);
+}
+
+.ccc12:hover .resume-btn {
+    color: white;
+    background-color: rgb(57, 153, 13);
+    opacity: 1;
+}
+
+.ccc12:hover .resume-btn:hover {
+    color: white;
+    background-color: rgb(243, 33, 33);
+    opacity: 1;
+    box-shadow: blue 5px 5px 10px;
+}
+
+.ccc13:hover .resume-btn {
+    color: white;
+    background-color: rgb(57, 153, 13);
+    opacity: 1;
+}
+
+.ccc13:hover .resume-btn:hover {
+    color: white;
+    background-color: rgb(243, 33, 33);
+    opacity: 1;
+    box-shadow: blue 5px 5px 10px;
+}
+
+.ccc7 {
+    width: 33%;
+    display: inline-block;
+    margin: auto;
+}
+
+.ccc12 {
+    background-image: url('./image9.jpg');
+    width: 98%;
+    height: 600px;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    border: .1rem solid #e8e8e8;
+    border-radius: .4rem;
+    cursor: pointer;
+}
+
+.ccc13 {
+    background-image: url('imageb22.jpg');
+    width: 98%;
+    height: 600px;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    border: .1rem solid #e8e8e8;
+    border-radius: .4rem;
+    cursor: pointer;
+}
+
+.ccc9 {
+    position: relative;
+    padding: 20px 0px 0px;
+}
+
+.ccc8 {
+    margin: auto;
+    margin-left: 0px;
+}
+
+.ccc10 {
+    padding: 40px 90px;
+}
+
+.text {
+    width: 95%;
+    margin: auto;
+}
+
+.ccc14 {
+    width: 800px;
+    height: 800px;
+}
+
+.ccc15 {
+    display: inline-flex;
+    flex-direction: row-reverse;
+}
+
+.ccc16 {
+    margin-top: 220px;
+    margin-left: 150px;
+    margin-right: 160px;
+}
+
+.ccc18 {
+    width: 500px;
+    height: 600px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+.ccc17 {
+    display: inline-flex;
+}
+
+.ccc19 {
+    margin-top: 220px;
+    margin-left: 120px;
+    margin-right: 160px;
+}
+
+.ccc20 {
+    width: 500px;
+    height: 450px;
+    margin-top: 100px;
+    margin-right: 200px;
+}
+
+.ccc21 {
+    margin-top: 120px;
+    margin-left: 150px;
+    margin-right: 160px;
+}
+
+.ccc22 {
+    display: inline-flex;
+    flex-direction: row-reverse;
+}
+
+.ccc23 {
+    display: inline-flex;
+}
+
+.ccc24 {
+    width: 550px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 150px;
+}

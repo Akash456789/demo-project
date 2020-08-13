@@ -1,0 +1,201 @@
+.bbb1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("next1.jpg");
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+
+.bbb2 {
+    text-align: center;
+    color: white;
+    padding-top: 6%;
+    font-size: 40px;
+    font-style: oblique;
+}
+
+.bbb3 {
+    text-align: center;
+    color: white;
+    font-style: oblique;
+}
+
+.bbb4 {
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 30px 100px;
+    width: 85%;
+}
+
+.bbb5 {
+    color: rgb(236, 184, 141);
+    text-decoration: none;
+    padding: 5px 60px;
+    border-bottom: 1px solid;
+}
+
+.bbb5:hover {
+    color: rgb(243, 33, 33);
+}
+
+.bbb6 {
+    text-decoration: none;
+    border: 1px solid;
+    padding: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    color: rgb(224, 155, 98);
+}
+
+.bbb6:hover {
+    color: white;
+    background-color: rgb(243, 33, 33);
+}
+
+.resume-btn {
+    text-decoration: none;
+    border-radius: 25px;
+    position: absolute;
+    bottom: 18rem;
+    left: 50%;
+    opacity: 0;
+    padding: 10px 20px 10px 20px;
+    transform: translateX(-50%);
+}
+
+.bbb12:hover .resume-btn {
+    color: white;
+    background-color: rgb(57, 153, 13);
+    opacity: 1;
+}
+
+.bbb12:hover .resume-btn:hover {
+    color: white;
+    background-color: rgb(243, 33, 33);
+    opacity: 1;
+    box-shadow: blue 5px 5px 10px;
+}
+
+.bbb13:hover .resume-btn {
+    color: white;
+    background-color: rgb(57, 153, 13);
+    opacity: 1;
+}
+
+.bbb13:hover .resume-btn:hover {
+    color: white;
+    background-color: rgb(243, 33, 33);
+    opacity: 1;
+    box-shadow: blue 5px 5px 10px;
+}
+
+.bbb7 {
+    width: 33%;
+    display: inline-block;
+    margin: auto;
+}
+
+.bbb12 {
+    background-image: url('./imageb22.jpg');
+    width: 98%;
+    height: 600px;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    border: .1rem solid #e8e8e8;
+    border-radius: .4rem;
+    cursor: pointer;
+}
+
+.bbb13 {
+    background-image: url('imageb2.jpg');
+    width: 98%;
+    height: 600px;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    border: .1rem solid #e8e8e8;
+    border-radius: .4rem;
+    cursor: pointer;
+}
+
+.bbb9 {
+    position: relative;
+    padding: 20px 0px 0px;
+}
+
+.bbb8 {
+    margin: auto;
+    margin-left: 0px;
+}
+
+.bbb10 {
+    padding: 40px 90px;
+}
+
+.text {
+    width: 95%;
+    margin: auto;
+}
+
+.bbb14 {
+    width: 800px;
+    height: 800px;
+}
+
+.bbb15 {
+    display: inline-flex;
+    flex-direction: row-reverse;
+}
+
+.bbb16 {
+    margin-top: 220px;
+    margin-left: 150px;
+    margin-right: 160px;
+}
+
+.bbb18 {
+    width: 500px;
+    height: 600px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+.bbb17 {
+    display: inline-flex;
+}
+
+.bbb19 {
+    margin-top: 220px;
+    margin-left: 120px;
+    margin-right: 160px;
+}
+
+.bbb20 {
+    width: 500px;
+    height: 450px;
+    margin-top: 100px;
+    margin-right: 200px;
+}
+
+.bbb21 {
+    margin-top: 120px;
+    margin-left: 150px;
+    margin-right: 160px;
+}
+
+.bbb22 {
+    display: inline-flex;
+    flex-direction: row-reverse;
+}
+
+.bbb23 {
+    display: inline-flex;
+}
+
+.bbb24 {
+    width: 550px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 150px;
+}

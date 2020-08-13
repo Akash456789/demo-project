@@ -1,0 +1,329 @@
+                            .menu-ul {
+                                list-style-type: none;
+                                margin: 10px;
+                                float: right;
+                                margin-right: 20px;
+                            }
+                            
+                            .menu-ul li {
+                                display: inline-block;
+                                margin-left: 20px;
+                            }
+                            
+                            .header {
+                                background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("bac3.jpg");
+                                height: 400px;
+                                background-size: cover;
+                                background-position: center;
+                                // width: 1500px;
+                            }
+                            
+                            .header-text {
+                                color: white;
+                                padding: 4%;
+                                font-size: 3px;
+                            }
+                            
+                            .header-text {
+                                color: white;
+                                padding: 4%;
+                                font-size: 3px;
+                            }
+                            
+                            // .header {
+                            // background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("bac3.jpg");
+                            // height: 400px;
+                            // background-size: left;
+                            // background-position: center;
+                            // }
+                            .header-text {
+                                color: white;
+                                padding: 4%;
+                                text-align: center;
+                                font-size: 25px;
+                            }
+                            
+                            .logo {
+                                width: 200px;
+                            }
+                            
+                            .as {
+                                color: rgb(51, 48, 48);
+                                text-decoration: none;
+                                padding: 5px 15px;
+                                font-family: sans-serif;
+                            }
+                            
+                            .menu-ul li :hover {
+                                border-bottom: 1.5px solid rgb(243, 33, 33);
+                            }
+                            
+                            .container {
+                                width: 100%;
+                                margin: auto;
+                                padding: 10px;
+                            }
+                            
+                            .navbar {
+                                padding: 20px 100px;
+                                display: flex;
+                                justify-content: space-between;
+                            }
+                            
+                            .link-btn {
+                                background-color: rgb(243, 33, 33);
+                                color: white;
+                                text-decoration: none;
+                                padding: 13px 34px;
+                                border: 1px solid;
+                                text-transform: uppercase;
+                                font-size: 18px;
+                                letter-spacing: 2px;
+                                border-radius: 25px;
+                                text-align: center;
+                            }
+                            
+                            .link-btn:hover {
+                                background-color: white;
+                                color: rgb(0, 0, 2);
+                                transition: 0.6s ease;
+                            }
+                            
+                            .cards {}
+                            
+                            .FOfWt {
+                                grid-template-columns: repeat(3, 1fr);
+                                display: grid;
+                                margin: 60px auto;
+                                gap: 2rem;
+                                padding: 46px 100px;
+                            }
+                            
+                            .hFUUum {
+                                box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 10px;
+                                color: rgb(0, 0, 0);
+                                height: 440px;
+                                text-align: center;
+                                transform: scale(1);
+                                position: relative;
+                                background: rgb(255, 255, 255);
+                                border-radius: 2px;
+                                padding: 20px;
+                                transition: all 0.3s ease 0s;
+                                padding: 50px 25px 25px;
+                            }
+                            
+                            .cmtXtV {
+                                position: relative;
+                                padding: 20px 0px 0px;
+                            }
+                            
+                            .hFUUum:hover {
+                                cursor: pointer;
+                                transform: scale(1.03);
+                                box-shadow: rgba(0, 0, 0, 0.15) 0px 20px 20px;
+                            }
+                            
+                            .section {
+                                background: #ff6a2f;
+                                font-size: x-large;
+                                color: white;
+                                font-weight: bold;
+                                padding: 20px 100px;
+                            }
+                            
+                            .text--center {
+                                text-align: center;
+                            }
+                            
+                            .quote {
+                                text-align: center;
+                            }
+                            
+                            body ol ul {
+                                padding: 0;
+                                margin: 0;
+                            }
+                            
+                            body {
+                                color: black;
+                                font-family: HK Grotesk, sans-serif;
+                                font-size: 1.6rem;
+                                line-height: 1.5;
+                            }
+                            
+                            html {
+                                box-sizing: border-box;
+                                font-size: 10px;
+                                font-weight: 400;
+                                line-height: 1.5;
+                                overflow-x: hidden;
+                            }
+                            
+                            .tata {
+                                text-align: center;
+                                margin-top: 80px;
+                                margin-bottom: -25px;
+                            }
+                            
+                            .hFUUuma {
+                                text-align: center;
+                                padding: 20px 100px;
+                                transition: all 0.3s ease 0s;
+                                margin-top: 100px;
+                                display: inline-flex;
+                            }
+                            
+                            .hFUUuma1 {
+                                text-align: center;
+                                padding: 20px 100px;
+                                transition: all 0.3s ease 0s;
+                                margin-top: 60px;
+                                display: inline-flex;
+                                flex-direction: row-reverse;
+                            }
+                            
+                            .cmtXtVa {
+                                font-size: x-large;
+                                margin-left: 20px;
+                            }
+                            
+                            .cmtXtVa h3 {
+                                font-size: 36px;
+                                font-weight: bold;
+                                line-height: 0;
+                            }
+                            
+                            .cmtXtVa p {
+                                letter-spacing: 1px;
+                                line-height: 45px;
+                            }
+                            
+                            .asd {
+                                text-align: center;
+                                color: white;
+                                font-size: 70px;
+                                padding-top: 100px;
+                                font-style: italic;
+                            }
+                            
+                            .asd1 {
+                                background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("image7.jpg");
+                                height: 650px;
+                                width: 1500px;
+                                background-size: cover;
+                                margin-right: 240px;
+                                margin-bottom: -60px;
+                            }
+                            
+                            .asd2 {
+                                text-align: center;
+                                color: white;
+                                font-size: 40px;
+                                font-style: italic;
+                                margin-bottom: 150px;
+                            }
+                            
+                            .footer {
+                                background-image: url("footer.jpg");
+                                //background-color: rgba(71, 64, 64, 0.719);
+                                height: 280px;
+                                background-size: cover;
+                                background-position: center;
+                                width: 1500px;
+                            }
+                            
+                            .footer1 {
+                                text-align: center;
+                                color: white;
+                            }
+                            
+                            .link-btn1 {
+                                background-color: rgb(252, 196, 150);
+                                color: red;
+                                text-decoration: none;
+                                padding: 13px 20px;
+                                text-transform: uppercase;
+                                font-size: 15px;
+                                border-radius: 25px;
+                                text-align: center;
+                            }
+                            
+                            .link-btn1:hover {
+                                background-color: rgb(243, 33, 33);
+                                color: white;
+                                transition: 0.6s ease;
+                            }
+                            
+                            .link-btn2 {
+                                background-color: white;
+                                color: red;
+                                text-decoration: none;
+                                padding: 13px 34px;
+                                text-transform: uppercase;
+                                font-size: 15px;
+                                border-radius: 25px;
+                                text-align: center;
+                            }
+                            
+                            .link-btn2:hover {
+                                background-color: rgb(252, 196, 150);
+                                transition: 0.6s ease;
+                            }
+                            
+                            .link-btn3 {
+                                background-color: rgb(243, 33, 33);
+                                color: white;
+                                text-decoration: none;
+                                padding: 15px 34px;
+                                border: 1px solid;
+                                text-transform: uppercase;
+                                font-size: 18px;
+                                letter-spacing: 1px;
+                                border-radius: 25px;
+                                text-align: center;
+                            }
+                            
+                            .link-btn3:hover {
+                                background-color: rgb(57, 153, 13);
+                                transition: 0.6s ease;
+                            }
+                            
+                            .icon {
+                                width: 30px;
+                                height: 35px;
+                                border-radius: 30px;
+                                text-decoration: none;
+                                padding: 15px 15px;
+                            }
+                            
+                            .icon1 {
+                                font-size: 20px;
+                                text-decoration: none;
+                                color: rgba(24, 23, 23, 0.897);
+                                padding-left: 20px;
+                                padding-top: 30px;
+                            }
+                            
+                            .icon1:hover {
+                                color: blue;
+                            }
+                            
+                            .menu-ul2 {
+                                display: inline-flex;
+                                flex-direction: row-reverse;
+                                width: 90%;
+                            }
+                            
+                            .sc-iUVpnZa {
+                                margin: auto;
+                                margin-left: 0px;
+                            }
+                            
+                            .work {
+                                padding-right: 500px;
+                            }
+                            
+                            .main {
+                                width: 1500px;
+                            }
